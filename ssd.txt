@@ -1,0 +1,7 @@
+<html>
+<body>
+<form>
+<input type=submit value=onclick onclick="http://india.timessms.com/http-api/receiverall.asp?username=127120&password=31053602&sender=Demo&cdmasender=&to=917708660420&message=Hello" />
+</form>
+</body>
+</html>
